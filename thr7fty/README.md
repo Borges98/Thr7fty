@@ -19,7 +19,7 @@
 |    :---:     |     :---:     |     :---:       |      :---:     |
 | Jarrett Zapata | jzapata2@mail.sfsu | jarrettz | Team Leader |
 | Rohan Rawat | rrawat@mail.sfsu.edu | rawatrohan123 | Back-end lead |
-| Anthony Borges | aborges1@mail.sfsu.edu | anthonyBorges98 | Front-end lead |
+| Anthony Borges | aborges1@mail.sfsu.edu | Borges98 | Front-end lead |
 | Tongda Yin | tyin2@mail.sfsu.edu | tdyin | Front-end lead |
 | Gabriel Gonzalez | ggonzalez2@mail.sfsu.edu | Gabe929 | Git master |
 | Abraham Laurente | abrahamlaurente@mail.sfsu.edu | AMLaurente | Scrum master |
